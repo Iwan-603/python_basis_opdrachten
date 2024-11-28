@@ -3,14 +3,17 @@
 # Groep:
 
 # Hier komt je code...
+Uitkomststring = "De uitkomst is: "
+
+
 x = 1
-y = ...
-print( ... )
+y = 2
+print(Uitkomststring, (x + y))
 
 x = 2
-y = ...
-print( ... )
+y = 12.5
+print(Uitkomststring, (x * y))
 
 x = 0
-y = ...
-print( ... )
+y = 1
+print(Uitkomststring, (x + y))
